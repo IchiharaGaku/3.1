@@ -1,0 +1,46 @@
+header {
+  width: 0 auto;
+  display: flex;
+}
+.header-logo {
+  margin: 10px 20px;
+  font-size: 35px;
+  color: #00277e;
+  margin-right: 400px;
+}
+.header-nav ul {
+  display: flex;
+}
+.header-nav ul li {
+  list-style: none;
+}
+
+.header-nav ul li a {
+  font-size: 20px;
+  margin: 20px 70px;
+  color: #00277e;
+  text-decoration: none;
+}
+.first-view {
+  width: 100%;
+}
+.smile {
+  font-size: 70px;
+  color: #000b62;
+  padding-top: 400px;
+  margin: 0;
+  line-height: 70px;
+}
+.box {
+  background-color: #000b62;
+  width: 75%;
+  height: 200px;
+  margin: 0;
+}
+.photo {
+  position: relative;
+  left: 50%;
+  bottom: 600px;
+  width: 50%;
+  height: 500px;
+}
